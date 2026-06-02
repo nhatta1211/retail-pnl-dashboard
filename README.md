@@ -4,7 +4,7 @@ Dashboard Power BI tổng hợp doanh thu, chi phí và lợi nhuận của mộ
 
 ## Preview
 
-![Tab 1 — Tổng quan](Tab_Screenshot\Tab_1.png)
+![Tab 1 — Tổng quan](Tab_Screenshot/Tab_1.png)
 
 ## Dữ liệu
 
