@@ -8,7 +8,7 @@ Dashboard Power BI tổng hợp doanh thu, chi phí và lợi nhuận của mộ
 
 ## Dữ liệu
 
-Dataset bán lẻ đã được anonymized (phục vụ học tập). Mã sản phẩm, cửa hàng và loại chi phí được tác giả tự gán nghĩa theo bối cảnh chuỗi cửa hàng tiện lợi để dashboard có ý nghĩa khi đọc.
+Dataset bán lẻ đã được mã hóa ẩn danh để phục vụ học tập. Tên sản phẩm, cửa hàng và loại chi phí được tác giả tự đặt theo bối cảnh chuỗi cửa hàng tiện lợi, giúp dashboard dễ đọc và có ý nghĩa khi trình bày.
 
 - 27 file Excel theo tháng (format `YYYYMM.xlsx`)
 - 20 cửa hàng, 30 sản phẩm, 20 loại chi phí
