@@ -14,7 +14,7 @@ Dataset bán lẻ đã được mã hóa ẩn danh để phục vụ học tập
 - 20 cửa hàng, 30 sản phẩm, 20 loại chi phí
 - Mỗi file có 2 sheet: `Bán hàng` và `Chi phí`
 
-File được lưu trong 2 folder: `/2022_2023/` (data đã chốt) và `/2024/` (data đang chạy). Khi có tháng mới, chỉ cần thả file vào folder `2024` và Refresh — toàn bộ dashboard tự cập nhật.
+File được lưu trong folder tên /Data/. Khi có tháng mới, chỉ cần copy file vào folder đó và Refresh — toàn bộ dashboard sẽ tự cập nhật.
 
 ## Các bước thực hiện
 
