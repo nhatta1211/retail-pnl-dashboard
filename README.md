@@ -116,28 +116,28 @@ DIVIDE(
 Dashboard gồm 5 tab, mỗi tab có sidebar slicer riêng bên trái để filter linh hoạt:
 
 - **Tab 1 — Tổng quan:** KPI chính (Doanh thu, GP, OP, các margin %) + line chart Doanh thu & Operating Profit 27 tháng + donut Selling vs G&A
-- **Tab 2 — Phân tích theo cửa hàng:** So sánh Doanh thu và Operating Profit giữa 20 cửa hàng, với conditional formatting đỏ/xanh cho cửa hàng lỗ/lãi; phân bố theo khu vực; Matrix table chi tiết
+- **Tab 2 — Phân tích theo cửa hàng:** So sánh Doanh thu và Operating Profit giữa 20 cửa hàng; phân bố theo khu vực; Matrix table chi tiết
 - **Tab 3 — Phân tích sản phẩm:** Top 10 sản phẩm theo Doanh thu và theo Gross Profit; cơ cấu doanh thu/lợi nhuận theo 5 nhóm sản phẩm
 - **Tab 4 — Cấu trúc chi phí:** Tỷ trọng Selling vs G&A; top các khoản chi phí lớn nhất; line chart xu hướng chi phí 27 tháng
 - **Tab 5 — Xu hướng:** YoY Revenue Growth, Operating Margin theo năm, area chart timeline đầy đủ, seasonality theo tháng
 
 ## Một số insight chính
 
-- Tổng doanh thu ~4.3 tỷ VND trong 27 tháng
+- Tổng doanh thu ~4.9 tỷ VND trong 27 tháng
 - Tăng trưởng doanh thu 2023 vs 2022: **-0.29%** (gần như không đổi)
 - Operating Margin 2023 vs 2022: **25.78% vs 25.47%** (+0.31pp)
-- Selling và G&A gần cân bằng (50.1% vs 49.9%)
-- Tổng chi phí vận hành chiếm **44% doanh thu**
-- Miền Nam đóng góp 62% tổng doanh thu (12/20 cửa hàng tại TP.HCM)
+- Selling và G&A gần cân bằng (50.37% vs 49.63%)
+- Tổng chi phí vận hành chiếm **44.3% doanh thu**
+- Miền Nam đóng góp phần lớn trong tổng doanh thu (12/20 cửa hàng tại TP.HCM)
 
 ## Hạn chế
 
-- Dataset đã được anonymized; tên sản phẩm, cửa hàng, chi phí do tác giả tự gán
+- Dataset đã được mã hóa ẩn danh; tên sản phẩm, cửa hàng, chi phí do tác giả tự gán
 - Dữ liệu 2024 chỉ có 3 tháng, chưa thể so sánh năm full
 - Chưa bao gồm phân tích cấp khách hàng
 
 ## Tác giả
 
 **Tạ Minh Nhật**
-Đại học Ngoại Thương Cơ sở II TP.HCM — Tài chính Ngân hàng Quốc tế
+Đại học Ngoại Thương Phân hiệu TP.HCM — Ngân hàng và Tài chính quốc tế
 Email: nhatta607@gmail.com
